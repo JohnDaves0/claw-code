@@ -1,0 +1,2 @@
+{"created_at_ms":1775359905334,"session_id":"session-1775359905334-0","type":"session_meta","updated_at_ms":1775359905334,"version":1}
+{"message":{"blocks":[{"text":"cargo update","type":"text"}],"role":"user"},"type":"message"}

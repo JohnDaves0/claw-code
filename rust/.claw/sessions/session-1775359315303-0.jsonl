@@ -1,0 +1,2 @@
+{"created_at_ms":1775359315303,"session_id":"session-1775359315303-0","type":"session_meta","updated_at_ms":1775359315303,"version":1}
+{"message":{"blocks":[{"text":"./target/debug/claw \"explain rust/crates/runtime/src/lib.rs\"","type":"text"}],"role":"user"},"type":"message"}
